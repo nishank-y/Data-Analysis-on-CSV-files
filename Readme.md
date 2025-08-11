@@ -31,5 +31,5 @@
 
 # How to Run
 - Download the dataset and notebook into the same folder.
-- Open coffee_sales_analysis.ipynb in Kaggle, Jupyter Notebook or Google Colab.
+- Open data-analysis-on-csv-files.ipynb in Kaggle, Jupyter Notebook or Google Colab.
 - Run all cells to reproduce the analysis and charts.
